@@ -1,0 +1,16 @@
+F:\MairieTaxeAPI\bin\Debug\netcoreapp2.1\appsettings.Development.json
+F:\MairieTaxeAPI\bin\Debug\netcoreapp2.1\appsettings.json
+F:\MairieTaxeAPI\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+F:\MairieTaxeAPI\bin\Debug\netcoreapp2.1\MairieTaxeAPI.deps.json
+F:\MairieTaxeAPI\bin\Debug\netcoreapp2.1\MairieTaxeAPI.runtimeconfig.json
+F:\MairieTaxeAPI\bin\Debug\netcoreapp2.1\MairieTaxeAPI.runtimeconfig.dev.json
+F:\MairieTaxeAPI\bin\Debug\netcoreapp2.1\MairieTaxeAPI.dll
+F:\MairieTaxeAPI\bin\Debug\netcoreapp2.1\MairieTaxeAPI.pdb
+F:\MairieTaxeAPI\obj\Debug\netcoreapp2.1\MairieTaxeAPI.RazorAssemblyInfo.cache
+F:\MairieTaxeAPI\obj\Debug\netcoreapp2.1\MairieTaxeAPI.RazorAssemblyInfo.cs
+F:\MairieTaxeAPI\obj\Debug\netcoreapp2.1\MairieTaxeAPI.AssemblyInfoInputs.cache
+F:\MairieTaxeAPI\obj\Debug\netcoreapp2.1\MairieTaxeAPI.AssemblyInfo.cs
+F:\MairieTaxeAPI\obj\Debug\netcoreapp2.1\MairieTaxeAPI.RazorTargetAssemblyInfo.cache
+F:\MairieTaxeAPI\obj\Debug\netcoreapp2.1\MairieTaxeAPI.dll
+F:\MairieTaxeAPI\obj\Debug\netcoreapp2.1\MairieTaxeAPI.pdb
+F:\MairieTaxeAPI\obj\Debug\netcoreapp2.1\MairieTaxeAPI.csprojAssemblyReference.cache
